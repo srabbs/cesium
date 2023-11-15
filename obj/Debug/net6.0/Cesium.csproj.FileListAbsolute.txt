@@ -1,0 +1,15 @@
+D:\Coding Stuffs\Cesium\bin\Debug\net6.0\Cesium.exe
+D:\Coding Stuffs\Cesium\bin\Debug\net6.0\Cesium.deps.json
+D:\Coding Stuffs\Cesium\bin\Debug\net6.0\Cesium.runtimeconfig.json
+D:\Coding Stuffs\Cesium\bin\Debug\net6.0\Cesium.dll
+D:\Coding Stuffs\Cesium\bin\Debug\net6.0\Cesium.pdb
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.csproj.AssemblyReference.cache
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.AssemblyInfoInputs.cache
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.AssemblyInfo.cs
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.csproj.CoreCompileInputs.cache
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.dll
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\refint\Cesium.dll
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.pdb
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\Cesium.genruntimeconfig.cache
+D:\Coding Stuffs\Cesium\obj\Debug\net6.0\ref\Cesium.dll
